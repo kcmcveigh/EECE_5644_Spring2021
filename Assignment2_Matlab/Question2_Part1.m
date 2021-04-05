@@ -1,6 +1,8 @@
 %Kieran McVeigh
 % ML Spring 2021
 % Question 2 part 1
+% inspiration taken from HW examples from Summer2_2020 take home examples
+% from matlab
 clear;
 mean_01 = [3 0];
 cov_01 = [2 0; 0 1];

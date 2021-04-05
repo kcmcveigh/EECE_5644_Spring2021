@@ -1,6 +1,7 @@
 clear;
 %Question2_Part2
-
+% inspiration taken from HW examples from Summer2_2020 take home examples
+% from matlab
 %% set up data
 data_file_string = 'question2_2000.txt';
 load(strcat('Question2Data/',data_file_string));

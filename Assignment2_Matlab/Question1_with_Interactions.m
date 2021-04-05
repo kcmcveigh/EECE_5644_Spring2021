@@ -1,5 +1,7 @@
 % Kieran McVeigh
 % ML spring 2021
+% inspiration taken from HW examples from Summer2_2020 take home examples
+% from matlab
 clear;
 %% setup data
 [xTrain,yTrain,xValidate,yValidate] = hw2q1;
